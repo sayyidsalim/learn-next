@@ -13,8 +13,9 @@ const HeroSectionHomeImage = () => {
           position: "absolute",
           marginTop: "56px"
         }}
+        alt="gambar 1"
       />
-      <Image src={travelImage} width={765} height={764} />
+      <Image src={travelImage} width={765} height={764} alt="gambar 2" />
     </div>
   );
 };

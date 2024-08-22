@@ -17,7 +17,7 @@ const HeroSectionHomeText = () => {
         to sportsmen it engrossed listening. Park gate sell they west hard for
         the.
       </p>
-      <Button children="Find our More"/>
+      <Button text="Find our More"/>
     </div>
   );
 };
